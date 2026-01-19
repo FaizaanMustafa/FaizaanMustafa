@@ -6,7 +6,7 @@
 
 - 🔭 I’m a **Data Engineer/Analyst**
 
-  - 💬 LinkedIn **https://www.linkedin.com/in/faizaanmustafa**
+- 💬 LinkedIn **https://www.linkedin.com/in/faizaanmustafa**
 
 
  <h3 align="left">Languages and Tools:</h3>
