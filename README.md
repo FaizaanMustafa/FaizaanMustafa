@@ -1,4 +1,4 @@
-![logo]()
+![logo](Info.png)
 
 <h1 align="center">Hi 👋, I'm Syed Faizaan Mustafa</h1>
 
