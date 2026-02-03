@@ -1,3 +1,5 @@
+![logo]()
+
 <h1 align="center">Hi 👋, I'm Syed Faizaan Mustafa</h1>
 
 <h4 align="center">I'm a results-driven Data Engineer/Analyst with 4+ years of experience designing and optimizing scalable data pipelines, building robust ETL processes, and enabling data-driven decisions across fast-paced business environments. My work bridges engineering and analytics to ensure data is accurate, timely, and actionable</h4>
